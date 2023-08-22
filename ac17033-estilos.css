@@ -1,0 +1,25 @@
+/* ac17033-estilos.css   AC17033  */
+    
+    fichero {
+      background-color:rgb(59, 59, 124);
+      display:block;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 25px;
+      line-height: 1.5;
+      color: #141414;}
+    
+         ficha {background-color:rgba(247, 188, 237, 0.438); color:rgb(22, 1, 22);display:block;} 
+         name {background-color:rgb(99, 56, 116); display:block;}
+         nombre {color:rgb(1, 16, 29); display:inline;font-size:35px;} 
+         apellido {color:yellow;font-size:35px;}
+    
+
+    pais {
+      background-color:rgb(40, 40, 78);
+      font-size:25px;
+      display:block;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+      departamento {background-color:rgba(67, 231, 168, 0.801);display:block;}
+         cabecera {background-color:rgb(23, 230, 230); display:block;font-size:35px;} 
+         habitantes {color:rgb(61, 1, 85); display:inline;} 
+         altura {color:rgb(255, 0, 64); display:inline;}

@@ -1,0 +1,7 @@
+/* ac17033-ejemplo2.css   AC17033  */
+
+pais {background-color:rgb(26, 26, 75);font-size:1cm; display:flexbox;}
+    departamento {background-color:rgba(67, 231, 168, 0.801);}
+        cabecera {background-color:rgb(23, 230, 230); display:block;} 
+        habitantes {color:rgb(61, 1, 85); display:inline;} 
+        altura {color:rgb(255, 0, 64); display:inline;}

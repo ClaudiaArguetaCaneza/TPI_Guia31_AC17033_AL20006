@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ac17033-estilos.css" ?>
+<!-- ejemplo2a.xml  AC17033 -->
+<pais nombre="El Salvador">
+    <departamento id="1" nombre="San Salvador">
+        <cabecera>San Salvador</cabecera>
+        <habitantes>1,700,000</habitantes>
+        <altura>545 MSNM</altura>
+    </departamento>
+
+    <departamento id="2" nombre="Cuscatlan">
+        <cabecera>Cojutepeque</cabecera>
+        <habitantes>50,315</habitantes>
+        <altura>849 MSNM</altura>
+        <coordenadas>13°50′17″N 89°01′52″O</coordenadas>
+        <superficie>756.2 km²</superficie>
+        <densidad>D306,11 hab/km²</densidad>
+        <pib>USD 5612.931</pib>
+        <codigopostal>CU</codigopostal>	
+    </departamento>
+</pais>

@@ -1,0 +1,7 @@
+/* ac17033-ejemplo1.css   AC17033  */
+
+ fichero {background-color:blue;font-size:1cm; display:flexbox;}
+    ficha {background-color:red; display:block;} 
+    nombre {color:white; display:inline;} 
+    apellido {color:yellow; display:inline;}
+    direccion {color:rgb(22, 19, 21);}

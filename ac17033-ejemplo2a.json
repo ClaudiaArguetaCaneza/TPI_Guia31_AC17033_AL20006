@@ -1,0 +1,23 @@
+// AC17033
+
+const ejemplo2a=({
+    "pais": {
+      "departamento": [
+        {
+          "cabecera": "San Salvador",
+          "habitantes": "1,700,000",
+          "altura": "545 MSNM"
+        },
+        {
+          "cabecera": "Cojutepeque",
+          "habitantes": "50,315",
+          "altura": "849 MSNM",
+          "coordenadas": "13°50′17″N 89°01′52″O",
+          "superficie": "756.2 km²",
+          "densidad": "D306,11 hab/km²",
+          "pib": "USD 5612.931",
+          "codigopostal": "CU"
+        }
+      ]
+    }
+  });
