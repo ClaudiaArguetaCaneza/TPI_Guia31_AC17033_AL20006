@@ -1,0 +1,18 @@
+/* carnet-ejemplo1.css   AL20006  */
+fichero {background-color:navy;}
+
+ficha {background-color:black; display:block;} 
+nombre {color:orange;display:inline;} 
+apellido {color:teal; display:inline;}
+
+direccion {color:lime;font-size:5cm; display:block;} 
+direccion {color:lime;font-size:1cm; display:block;} 
+telefono {color:lime;font-size:1cm; display:block;}
+email {color:lime;font-size:1cm; display:block;}
+dui {color:lime;font-size:1cm; display:block;}
+/*ficha {background-color:black; display:block;} nombre {color:white; 
+display:inline;} apellido {color:purple; display:inline;}
+direccion {color:yellow;font-size:1cm; display:none;} 
+telefono {color:yellow;font-size:1cm; display:none;}
+email {color:yellow;font-size:1cm; display:none;}
+website {color:yellow;font-size:1cm; display:none;}*/

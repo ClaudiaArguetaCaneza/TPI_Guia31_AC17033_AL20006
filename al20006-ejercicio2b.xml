@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ejemplo2.xml  AL20006 -->
+<pais nombre="El Salvador">
+<moneda> Dolar Estado Unidos</moneda>
+<codigo-telefonico> +503</codigo-telefonico>
+<idioma> Español</idioma>
+<idioma-autoctono> nahuatl</idioma-autoctono>
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+<superficie>72.25 km2</superficie>
+</departamento>
+<departamento id="2" nombre="Santa Ana">
+<cabecera>Santa Ana</cabecera>
+<habitantes>272554</habitantes>
+<altura>665 MSNM</altura>
+<superficie>408 km2</superficie>
+</departamento>
+<departamento id="3" nombre="San Miguel">
+<cabecera>San Miguel</cabecera>
+<habitantes>265921</habitantes>
+<altura>129 MSNM</altura>
+<superficie>594 km2</superficie>
+</departamento>
+</pais>

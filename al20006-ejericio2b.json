@@ -1,0 +1,35 @@
+{
+  "pais": {
+    "@nombre": "El Salvador",
+    "moneda": " Dolar Estado Unidos",
+    "codigo-telefonico": " +503",
+    "idioma": " Español",
+    "idioma-autoctono": " nahuatl",
+    "departamento": [
+      {
+        "@id": "1",
+        "@nombre": "San Salvador",
+        "cabecera": "San Salvador",
+        "habitantes": "1,700,000",
+        "altura": "545 MSNM",
+        "superficie": "72.25 km2"
+      },
+      {
+        "@id": "2",
+        "@nombre": "Santa Ana",
+        "cabecera": "Santa Ana",
+        "habitantes": "272554",
+        "altura": "665 MSNM",
+        "superficie": "408 km2"
+      },
+      {
+        "@id": "3",
+        "@nombre": "San Miguel",
+        "cabecera": "San Miguel",
+        "habitantes": "265921",
+        "altura": "129 MSNM",
+        "superficie": "594 km2"
+      }
+    ]
+  }
+}
