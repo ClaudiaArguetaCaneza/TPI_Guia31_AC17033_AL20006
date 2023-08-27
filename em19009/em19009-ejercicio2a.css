@@ -1,0 +1,12 @@
+/* em19009-ejercicio2a.css  EM19009*/
+pais {background-color:blue;}
+departamento {background-color:red; display:block;} 
+cabecera {color:white; display:inline;} 
+habitantes {color:yellow; display:inline;}
+altura {color:yellow;font-size:1cm; display:none;}
+moneda {color:yellow;font-size:1cm; display:none;}
+codigotelefonico {color:yellow;font-size:1cm; display:none;}
+idioma {color:yellow;font-size:1cm; display:none;}
+oficial {color:yellow;font-size:1cm; display:none;}
+autoctono {color:yellow;font-size:1cm; display:none;}
+segundoidioma {color:yellow;font-size:1cm; display:none;}
