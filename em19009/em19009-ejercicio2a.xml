@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type="text/css"  href="em19009-ejercicio2a.css"?>
+
 <pais nombre="El Salvador">
 
     <departamento id="1" nombre="San Salvador">
@@ -15,12 +17,12 @@
 
     <moneda>Dolar ($)</moneda>
 
-    <codigo-telefonico>503</codigo-telefonico>
+    <codigotelefonico>503</codigotelefonico>
 
     <idioma>
           <oficial>Español</oficial>
           <autoctono>Español</autoctono>
-          <segundo-idioma>Español</segundo-idioma>
+          <segundoidioma>Español</segundoidioma>
     </idioma>
 
 </pais>
